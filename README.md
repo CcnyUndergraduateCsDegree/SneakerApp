@@ -1,4 +1,9 @@
-# SneakerApp
-
-
-https://github.com/CShorten/NIKE_vs_ADIDAS
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- head definitions go here -->
+    </head>
+    <body>
+        <!-- the content goes here -->
+    </body>
+</html>
