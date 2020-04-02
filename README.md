@@ -1,2 +1,2 @@
-" Hosting Testing by MD"
-RUN
+" Welcome to SneakerApp - Sneaker Image recognition "
+
