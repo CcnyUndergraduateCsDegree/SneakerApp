@@ -3,6 +3,7 @@
 
 
 
-Presneation:
+* Presentation
+------------
 
 [Sneaker Classification 1st Presentation.pptx](https://github.com/CcnyUndergraduateCsDegree/SneakerApp/files/4517191/Sneaker.Classification.1st.Presentation.pptx)
