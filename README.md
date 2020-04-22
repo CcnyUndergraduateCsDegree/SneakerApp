@@ -3,7 +3,17 @@
 
 
 
-* Presentation
-------------
+# Presentation
+--------------
+[Sneaker Classification 5th Presentation.pptx](https://github.com/CcnyUndergraduateCsDegree/SneakerApp/files/4517264/Sneaker.Classification.5th.Presentation.pptx)
+
+
+[Sneaker Classification 4th Presentation.pptx](https://github.com/CcnyUndergraduateCsDegree/SneakerApp/files/4517262/Sneaker.Classification.4th.Presentation.pptx)
+
+[Sneaker Classification 3rd Presentation.pptx](https://github.com/CcnyUndergraduateCsDegree/SneakerApp/files/4517261/Sneaker.Classification.3rd.Presentation.pptx)
+
+
+[Sneaker Classification 2nd Presentation.pptx](https://github.com/CcnyUndergraduateCsDegree/SneakerApp/files/4517260/Sneaker.Classification.2nd.Presentation.pptx)
+
 
 [Sneaker Classification 1st Presentation.pptx](https://github.com/CcnyUndergraduateCsDegree/SneakerApp/files/4517191/Sneaker.Classification.1st.Presentation.pptx)
