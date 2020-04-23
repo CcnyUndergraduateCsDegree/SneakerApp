@@ -1,4 +1,4 @@
-                   # Project Team Member: Shahan Rahman, Hasibul Islam, Jun Zheng & Carlos Vides
+Project Team Member: Shahan Rahman, Hasibul Islam, Jun Zheng & Carlos Vides
 
 #  Welcome to SneakerApp - SneakerImage Recognition
 ![SneakerImage RecognitionLOGO](https://user-images.githubusercontent.com/36207058/80052926-c5437400-84e9-11ea-81d8-99b788665d41.png)
