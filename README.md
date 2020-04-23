@@ -1,10 +1,6 @@
 #  Welcome to SneakerApp - SneakerImage Recognition
 ![SneakerImage RecognitionLOGO](https://user-images.githubusercontent.com/36207058/80052926-c5437400-84e9-11ea-81d8-99b788665d41.png)
 
-    Shahan Rahman - Project Manager & Full Stack Engineer
-    Hasibul Islam - Frontend Engineer & QA Tester
-    Jun Zheng     - Backend Engineer 
-    Carlos Vides  - Backend Engineer & QA Tester
 * [☞ Github-Link: Shahan Rahman](https://github.com/shahan27)   Project Manager & Full Stack Engineer.
 * [☞ Github-Link: Hasibul Islam](https://github.com/hislam000/) Frontend Engineer & QA Tester.
 * [☞ Github-Link: Jun Zheng ](https://github.com/JunZheng007)   Backend Engineer.
