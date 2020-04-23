@@ -1,5 +1,5 @@
 #  Welcome to SneakerApp - SneakerImage Recognition
-![Sneaker App](https://user-images.githubusercontent.com/36207058/78203433-f38ee000-7464-11ea-952d-705c167bc311.png)
+![SneakerImage RecognitionLOGO](https://user-images.githubusercontent.com/36207058/80052739-68e05480-84e9-11ea-8588-74e681588038.png)
 
 # SneakerClassificationFinal.ipynb 
 * [☞ Click here](https://colab.research.google.com/drive/1Ks9ul-FR0rLxv8ux7eUQ5iz-UOmh71mg) using Colab for Testing Data!
