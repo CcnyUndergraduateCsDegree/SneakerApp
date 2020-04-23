@@ -15,7 +15,7 @@
 # Presentation - Click to open !
 --------------------------------
 * [☞ Click here](https://docs.google.com/presentation/d/1I1uEEsRkp9doiGLHI5QXvXqoGhRagjnzvU4TkwExRoQ/edit?usp=sharing) Sneaker Classification 6th Presentation.pptx
-
+![Sneaker Classification 6th Presentation](https://user-images.githubusercontent.com/36207058/80118533-85ff3c80-8556-11ea-85bd-65004b69aaf6.png)
 
 * [Click here ☞] [Sneaker Classification 5th Presentation.pptx](https://github.com/CcnyUndergraduateCsDegree/SneakerApp/files/4517264/Sneaker.Classification.5th.Presentation.pptx)
 ![Sneaker Classification 5th Presentation](https://user-images.githubusercontent.com/36207058/80118416-5e0fd900-8556-11ea-90b1-2425f0c46f5a.gif)
