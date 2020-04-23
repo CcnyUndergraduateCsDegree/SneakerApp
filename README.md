@@ -5,6 +5,11 @@
     Hasibul Islam - Frontend Engineer & QA Tester
     Jun Zheng     - Backend Engineer 
     Carlos Vides  - Backend Engineer & QA Tester
+* [☞ Github-Link: Shahan Rahman](https://github.com/shahan27)   Project Manager & Full Stack Engineer.
+* [☞ Github-Link: Hasibul Islam](https://github.com/hislam000/) Frontend Engineer & QA Tester.
+* [☞ Github-Link: Jun Zheng ](https://github.com/JunZheng007)   Backend Engineer.
+* [☞ Github-Link: Carlos Vides](https://github.com/cvid2410)    Backend Engineer & QA Tester
+
 
 
 # SneakerClassificationFinal.ipynb 
