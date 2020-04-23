@@ -1,6 +1,9 @@
 #  Welcome to SneakerApp - SneakerImage Recognition
 ![Sneaker App](https://user-images.githubusercontent.com/36207058/78203433-f38ee000-7464-11ea-952d-705c167bc311.png)
 
+# SneakerClassificationFinal.ipynb 
+    https://colab.research.google.com/drive/1Ks9ul-FR0rLxv8ux7eUQ5iz-UOmh71mg
+
 # Presentation - Click to open !
 -------------------------------
   - [X] [Sneaker Classification 5th Presentation.pptx](https://github.com/CcnyUndergraduateCsDegree/SneakerApp/files/4517264/Sneaker.Classification.5th.Presentation.pptx)
