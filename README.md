@@ -32,6 +32,8 @@
             
             Hasibul Islam - Frontend Engineer & QA Tester
             -----------------------------------------------------
+            Setup environments to save and retrieve data (Github, Google Colab, Google Drive)
+            Full-Github Stack
             Decide on User interface 
             Gathered data on Puma 
             Create unit test for individual components of machine algorithm.
