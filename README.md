@@ -20,6 +20,7 @@
 * [Click here ☞] [Sneaker Classification 5th Presentation.pptx](https://github.com/CcnyUndergraduateCsDegree/SneakerApp/files/4517264/Sneaker.Classification.5th.Presentation.pptx)
 
 * [Click here ☞] [Sneaker Classification 4th Presentation.pptx](https://github.com/CcnyUndergraduateCsDegree/SneakerApp/files/4517262/Sneaker.Classification.4th.Presentation.pptx)
+![Sneaker Classification 4th Presentation](https://user-images.githubusercontent.com/36207058/80118157-04a7aa00-8556-11ea-8cb9-c476f6ecdc9e.gif)
 
 * [Click here ☞] [Sneaker Classification 3rd Presentation.pptx](https://github.com/CcnyUndergraduateCsDegree/SneakerApp/files/4517261/Sneaker.Classification.3rd.Presentation.pptx)
 ![Sneaker Classification 3rd Presentation](https://user-images.githubusercontent.com/36207058/80115506-cf4d8d00-8552-11ea-8710-b5f5cdbb2c65.gif)
