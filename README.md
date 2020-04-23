@@ -13,7 +13,10 @@
 
 
 # Presentation - Click to open !
--------------------------------
+--------------------------------
+* [Click here ☞] [Sneaker Classification 6th Presentation.pptx]
+https://docs.google.com/presentation/d/1I1uEEsRkp9doiGLHI5QXvXqoGhRagjnzvU4TkwExRoQ/edit?usp=sharing
+
 * [Click here ☞] [Sneaker Classification 5th Presentation.pptx](https://github.com/CcnyUndergraduateCsDegree/SneakerApp/files/4517264/Sneaker.Classification.5th.Presentation.pptx)
 
 
