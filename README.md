@@ -14,19 +14,16 @@
 
 # Presentation - Click to open !
 --------------------------------
-* [Click here ☞] [Sneaker Classification 6th Presentation.pptx]
-https://docs.google.com/presentation/d/1I1uEEsRkp9doiGLHI5QXvXqoGhRagjnzvU4TkwExRoQ/edit?usp=sharing
+* [☞ Click here](https://docs.google.com/presentation/d/1I1uEEsRkp9doiGLHI5QXvXqoGhRagjnzvU4TkwExRoQ/edit?usp=sharing) Sneaker Classification 6th Presentation.pptx
+
 
 * [Click here ☞] [Sneaker Classification 5th Presentation.pptx](https://github.com/CcnyUndergraduateCsDegree/SneakerApp/files/4517264/Sneaker.Classification.5th.Presentation.pptx)
-
 
 * [Click here ☞] [Sneaker Classification 4th Presentation.pptx](https://github.com/CcnyUndergraduateCsDegree/SneakerApp/files/4517262/Sneaker.Classification.4th.Presentation.pptx)
 
 * [Click here ☞] [Sneaker Classification 3rd Presentation.pptx](https://github.com/CcnyUndergraduateCsDegree/SneakerApp/files/4517261/Sneaker.Classification.3rd.Presentation.pptx)
 
-
 * [Click here ☞] [Sneaker Classification 2nd Presentation.pptx](https://github.com/CcnyUndergraduateCsDegree/SneakerApp/files/4517260/Sneaker.Classification.2nd.Presentation.pptx)
-
 
 * [Click here ☞] [Sneaker Classification 1st Presentation.pptx](https://github.com/CcnyUndergraduateCsDegree/SneakerApp/files/4517191/Sneaker.Classification.1st.Presentation.pptx)
 ![Sneaker Classification 1st Presentation](https://user-images.githubusercontent.com/36207058/80105617-d66e9e00-8546-11ea-924a-7e9403f65cd0.gif)
