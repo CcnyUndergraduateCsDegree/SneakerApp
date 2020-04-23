@@ -23,6 +23,35 @@
 
 * [Click here ☞] [Sneaker Classification 3rd Presentation.pptx](https://github.com/CcnyUndergraduateCsDegree/SneakerApp/files/4517261/Sneaker.Classification.3rd.Presentation.pptx)
 
+            Shahan Rahman - Project Manager & Full Stack Engineer
+            -----------------------------------------------------
+            Setup environments to save and retrieve data (Github, Google Colab, Google Drive)
+            Planning milestones that we need to meet every week 
+            Modifying Connors Project 
+            Gathering data for Nike
+            
+            Hasibul Islam - Frontend Engineer & QA Tester
+            -----------------------------------------------------
+            Decide on User interface 
+            Gathered data on Puma 
+            Create unit test for individual components of machine algorithm.
+
+            Jun Zheng - Backend Engineer 
+            -----------------------------------------------------
+            Gathered data on Adidas  
+            Rework Connor Project
+            Looking for new algorithms
+
+            Carlos Vides - Backend Engineer & QA Tester
+            -----------------------------------------------------
+            Currently Learning Python3
+            Will use Django Backend Framework API
+            We’ll make a Django API that loads and runs a trained machine learning mode classifying sneakers 
+
+
+![Sneaker Classification 3rd Presentation](https://user-images.githubusercontent.com/36207058/80115506-cf4d8d00-8552-11ea-8710-b5f5cdbb2c65.gif)
+
+
 * [Click here ☞][Sneaker Classification 2nd Presentation.pptx](https://github.com/CcnyUndergraduateCsDegree/SneakerApp/files/4517260/Sneaker.Classification.2nd.Presentation.pptx)
 ![Sneaker Classification 2nd Presentation](https://user-images.githubusercontent.com/36207058/80114444-96f97f00-8551-11ea-865e-ec2da8a8051d.gif)
 
