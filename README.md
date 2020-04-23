@@ -1,5 +1,11 @@
 Project Team Member: Shahan Rahman, Hasibul Islam, Jun Zheng & Carlos Vides
 
+    Shahan Rahman - Project Manager & Full Stack Engineer
+    Hasibul Islam - Frontend Engineer & QA Tester
+    Jun Zheng     - Backend Engineer 
+    Carlos Vides  - Backend Engineer & QA Tester
+
+
 #  Welcome to SneakerApp - SneakerImage Recognition
 ![SneakerImage RecognitionLOGO](https://user-images.githubusercontent.com/36207058/80052926-c5437400-84e9-11ea-81d8-99b788665d41.png)
 
