@@ -15,6 +15,10 @@
 
 # Presentation - Click to open !
 --------------------------------
+# [☞ Click here][SneakerClassificationFinal.ipynb]
+(https://colab.research.google.com/drive/1Ks9ul-FR0rLxv8ux7eUQ5iz-UOmh71mg) using Colab for Testing Data!
+
+
 # [☞ Click here][SneakerClassification_slides.pptx]]
 [SneakerClassification_slides.pptx](https://github.com/CcnyUndergraduateCsDegree/SneakerApp/files/4595505/SneakerClassification_slides.pptx)
 
