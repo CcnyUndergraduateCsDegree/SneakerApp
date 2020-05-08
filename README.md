@@ -15,11 +15,13 @@
 
 # Presentation - Click to open !
 -------------------------------------------------------------
+# Final 
 * [Click here ☞] [SneakerClassification_slides.pptx](https://github.com/CcnyUndergraduateCsDegree/SneakerApp/files/4595505/SneakerClassification_slides.pptx)
+![Sneaker Classification Final](https://user-images.githubusercontent.com/36207058/81430097-dcf73b00-912c-11ea-84e3-e561f6d77e26.gif)
 
 # ----------------------------------------------------------
 * [Click here ☞] [Sneaker Classification 6th Presentation.pptx](https://github.com/CcnyUndergraduateCsDegree/SneakerApp/files/4595504/Sneaker.Classification.6th.Presentation.pptx)
-
+![Sneaker Classification 6th](https://user-images.githubusercontent.com/36207058/81430091-dbc60e00-912c-11ea-912f-529b84872316.gif)
 # ----------------------------------------------------------
 * [Click here ☞] [Sneaker Classification 5th Presentation.pptx](https://github.com/CcnyUndergraduateCsDegree/SneakerApp/files/4517264/Sneaker.Classification.5th.Presentation.pptx)
 ![Sneaker Classification 5th Presentation](https://user-images.githubusercontent.com/36207058/80118416-5e0fd900-8556-11ea-90b1-2425f0c46f5a.gif)
