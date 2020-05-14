@@ -13,7 +13,6 @@
 * [☞ Click here](https://colab.research.google.com/drive/1Ks9ul-FR0rLxv8ux7eUQ5iz-UOmh71mg) using Colab for Testing Data!
 
 
-# Presentation - Click to open !
 -------------------------------------------------------------
 # Final - SneakerClassification_slides Presentation
 
